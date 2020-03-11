@@ -22,7 +22,7 @@
   "dependencies": {
     "bitcoin-core": "2.3.0",
     "bitcoinjs-lib": "3.3.2",
-    "body-parser": "~1.18.2",
+    "body-parser": "~1.19.0",
     "cookie-parser": "~1.4.3",
     "crypto-js": "3.2.1",
     "debug": "~2.6.0",
