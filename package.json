@@ -36,7 +36,7 @@
     "moment-duration-format": "2.3.2",
     "morgan": "^1.9.1",
     "pug": "2.0.4",
-    "qrcode": "1.4.4",
+    "qrcode": "1.5.0",
     "request": "2.88.2",
     "serve-favicon": "^2.5.0",
     "simple-git": "1.132.0"
